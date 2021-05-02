@@ -1,2 +1,2 @@
 messenger
-obj/*
+obj/*.o
